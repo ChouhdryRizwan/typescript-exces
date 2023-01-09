@@ -1,0 +1,1 @@
+You can try this project using this command "npx riz_number_guessing_game_003" in cmd.

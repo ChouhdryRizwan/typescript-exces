@@ -1,0 +1,1 @@
+You can try this project using this command "npx cr-cal-001" in cmd.
