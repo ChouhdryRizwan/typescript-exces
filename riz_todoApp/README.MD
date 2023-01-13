@@ -1,0 +1,1 @@
+You can try this project using this command "npx riz_todoapp_001" in cmd.
