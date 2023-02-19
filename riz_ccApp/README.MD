@@ -1,0 +1,1 @@
+You can try this project using this command " npx riz_currency_converter" in cmd.

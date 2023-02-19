@@ -1,7 +1,8 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 import chalkAnimation from "chalk-animation";
+// "@types/chalk": "^2.2.0",
 // Stop the welcome title
 const sleep = () => new Promise((res, rej) => setTimeout(res, 1000));
 // Create the welcome title
